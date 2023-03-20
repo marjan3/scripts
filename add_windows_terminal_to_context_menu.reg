@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\wt]
+@="Terminal here"
+"Icon"="%USERPROFILE%\\AppData\\Local\\Microsoft\\WindowsApps\\wt_32.ico"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\wt\command]
+@="C:\\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.11.2921.0_x64__8wekyb3d8bbwe\\wt.exe"
